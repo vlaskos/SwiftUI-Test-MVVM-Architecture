@@ -20,3 +20,5 @@
 
 - Write a networking layer with async/await
 - Added paginations of 10 users per page
+
+Source architecture https://github.com/jasonjrr/MVVM.Demo.SwiftUI/tree/master
