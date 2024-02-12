@@ -12,13 +12,13 @@
 
 1. Reuse example of arhitecture in this repo https://github.com/vlaskos/SwiftUI-Test-MVVM-Architecture/tree/main/MVVM.Demo.SwiftUI
 2. Main goal to develop app based on MVVM pattern with Combine, SwiftUI, URLSessions.
-3. Minimum deployment version - iOS 16.0.
-4. Feel free to modify router, dependency modules.
-5. Follow Swift coding style and convention
+3. Feel free to modify router, dependency modules.
+4. Follow Swift coding style and convention
 
 ## Bonus points
 
 - Write a networking layer with async/await
 - Added paginations of 10 users per page
+- Support minimum deployment version - iOS 16.0.
 
 Source architecture https://github.com/jasonjrr/MVVM.Demo.SwiftUI/tree/master
